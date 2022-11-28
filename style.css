@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.Me {
+    height: 400px;
+    border-style: solid;
+}
+h5 {
+        background: repeating-linear-gradient(3deg, #088900, transparent 100px);
+        color: aliceblue;
+}
+a {
+    text-decoration: none;
+}
+
+.foo {
+    height: 5vh;
+    background: repeating-linear-gradient(1deg, black, transparent 100px);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.git {
+    height: 20px;
+}
